@@ -1,18 +1,1 @@
-This R file contains most of what is needed to do comparisons between base data and a particular day.
-
-It contains the following functions:
-
-fix_series -> Helps prevent double counting for features.
-
-count_gd -> Does a single morse filtration at a particular filtration height and counts features above it
-         -> Input is a vector
-         
-count_gd_heights -> performs count_gd over a range of heights
-         -> Input is a vector
-         
-count_gd_day -> performs count_gd_heights over an entire matrix
-             -> Input is a matrix
-             
-build_comp -> Creates a baseline over the desired number of days/years
-
-horsieZ -> Compares a day vs a baseline
+This README will be updated shortly to explain the individual R scripts that I've added here and what each of them do. There's a fair amount of random things I did in my exploration so this may take a little bit of time. As of right now, there are comments in each of them that gives a short explanation as to what they do.
