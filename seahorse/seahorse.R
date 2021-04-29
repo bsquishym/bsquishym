@@ -9,7 +9,7 @@ library(fields)
 
 #
 #
-# included is a file called bymonth30.R
+# included is a file called bymonth30.RData
 # This is a 30-year horsieZ base with l=50
 # to load it, use load(file="bymonth30.RData")
 # it will import it as variable name bymonth30
